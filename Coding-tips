@@ -1,0 +1,33 @@
+Practice
+
+Remember that it is very important to practice. Try to solve at least one or two questions everyday.
+
+It is helpful if you stay in touch with people who do competitive programming regularly. This will keep you motivated.
+
+Often while practicing, you will not be able to solve some problems. Do not give up easily! Keep trying! But sometimes even after trying for hours, we are not able to solve it. In those cases, it is advisable to look at the editorials. Editorials are step-by-step explanations on how to solve a problem. Often you'll find new innovative ways of solving problems on reading them. So sometimes you should read editorials even if you have been able to solve a problem.
+
+Sometimes reading editorials is not enough to understand how to solve a problem. This is usually the case when you know how to solve it but you are not able to express your ideas as code easily. When that happens, you should try looking at others' code. Some online judges make other people's code public (like Codechef) while some don't (like SPOJ).
+Contests
+
+Once you solve 15 to 20 problems, you should occasionally take part in programming contests. Many websites host contests regularly.
+
+Codechef has 3 monthly contests - Long challenge, Cookoff and LunchTime. Long Challenge has 10 questions to be solved in 10 days. You should try to solve as many questions as you can (without taking hints from others). Cookoff has 5 questions to be solved in 2.5 hours. Regularly taking part in Cookoff and trying to perform better in it will increase your speed. I have never taken part in lunch time so I don't know much about it but it is probably similar to Cookoff.
+
+You should not be disheartened if you are able to solve only one or two questions. This is natural when starting out. As you get better, you'll be able to solve more and more. If you are not able to solve any question, you should contact a senior and he/she will help you.
+
+When you have solved more than 50 to 75 problems, you should also start solving problems on Codeforces and taking part in Codeforces' contests. This is one of the sites where the most serious programmers of the world can be found.
+
+With regular practice, you should become pretty good. One of my friends solved average 4 questions per day for a year and he recently got AIR 7 in a Codechef Long challenge!
+Compilers
+
+One question I get asked sometimes is what compiler or IDE to use.
+
+If you have Linux or Mac, I would advise you to use:
+
+    gcc for C
+    g++ for C++
+    javac for Java (both oracle and openjdk are good)
+
+If you are on windows, you might want to use an IDE. Code::Blocks is good for C and C++. I haven't used IDEs for other languages so I can't help you there.
+
+Some online compilers are also available. The most well known is ideone. Codechef has an online compiler called code-compile-run.
